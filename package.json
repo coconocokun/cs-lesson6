@@ -1,0 +1,20 @@
+{
+  "name": "lesson5",
+  "version": "1.0.0",
+  "description": "Test projet...",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.ts"
+  },
+  "author": "Gavin Kwon",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/nodemon": "^1.19.4",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
